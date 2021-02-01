@@ -1,0 +1,10 @@
+fase,tensao,corrente
+v_faseA,110,30
+v_faseA,100,20
+v_faseA,90,10
+v_faseB,220,30
+v_faseB,210,20
+v_faseB,200,10
+v_faseC,320,30
+v_faseC,310,20
+v_faseC,300,10
